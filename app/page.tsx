@@ -8,7 +8,7 @@ export default function Home() {
         badge="Portal de Tutoriais"
         title1="Aprenda com"
         title2="Tutoriais Interativos"
-        description="Explore nossa coleção de tutoriais interativos e eleve suas habilidades ao próximo nível com conteúdo prático e envolvente."
+        description="Explore nossa coleção de tutoriais interativos gerados por IA com conteúdo prático e rápido."
       />
       <TutorialsSection />
     </main>
