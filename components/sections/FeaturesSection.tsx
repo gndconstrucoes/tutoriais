@@ -1,3 +1,4 @@
+/*
 const features = [
   {
     name: 'Tutoriais Interativos',
@@ -69,3 +70,4 @@ export default function FeaturesSection() {
     </div>
   );
 } 
+*/
