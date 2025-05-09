@@ -15,9 +15,9 @@ interface Tutorial {
 const tutorials: Tutorial[] = [
   {
     id: '1',
-    title: 'Como Cadastrar Documento E Apontar Signatários',
-    description: 'Aprenda a cadastrar documentos e definir signatários no CertOne.',
-    embedUrl: 'https://embed.app.guidde.com/playbooks/cqGFyFsTxKNLWzkcRJ9qwy',
+    title: 'Como criar documentos e assinar no CertOne',
+    description: 'Aprenda a cadastrar e assinar documentos no CertOne.',
+    embedUrl: 'https://embed.app.guidde.com/playbooks/kuhzGKEckDtEMCr4mTGsrV',
     category: 'CertOne',
     level: 'Iniciante'
   },
