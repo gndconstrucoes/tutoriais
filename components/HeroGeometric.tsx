@@ -73,8 +73,8 @@ function ElegantShape({
 
 function HeroGeometric({
     badge = "Portal de Tutoriais",
-    title1 = "Eleve sua marca com",
-    title2 = "Produção Audiovisual",
+    title1 = "Aprenda com",
+    title2 = "Tutoriais Interativos",
     description = "Explore nossa coleção de tutoriais interativos das plataformas que utilizamos com conteúdo prático e envolvente."
 }: {
     badge?: string;
