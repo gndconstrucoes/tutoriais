@@ -31,9 +31,9 @@ const tutorials: Tutorial[] = [
   },
   {
     id: '3',
-    title: 'Primeiros Passos com ERP UAU',
-    description: 'Comece sua jornada com o ERP UAU e aprenda as funcionalidades básicas.',
-    embedUrl: '',
+    title: 'Como gerar pedido no assistente de pedidos - UAU Suprimentos',
+    description: 'Este guia detalha os passos necessários para gerar um pedido no assistente de pedidos do UAU no módulo Suprimentos.',
+    embedUrl: 'https://embed.app.guidde.com/playbooks/dLmzUkGgAezTYhe2qjAWsi',
     category: 'ERP UAU',
     level: 'Iniciante'
   },
