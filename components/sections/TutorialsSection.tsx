@@ -41,7 +41,7 @@ const tutorials: Tutorial[] = [
     id: '4',
     title: 'Requisição de Estoque - UAU Mobile',
     description: 'Este guia detalha os passos necessários para gerar requisição de material do estoque até a entrega do mesmo através do UAU Mobile.',
-    embedUrl: 'https://embed.app.guidde.com/playbooks/nC9ujBiaRWy2hk1TL7DS1f',
+    embedUrl: '',
     category: 'ERP UAU',
     level: 'Iniciante'
   },
